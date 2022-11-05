@@ -44,4 +44,4 @@ networks:
 
 ```
 docker-compose is used create a multiiamge service for 
-projects instead of running images 
+projects instead of run
